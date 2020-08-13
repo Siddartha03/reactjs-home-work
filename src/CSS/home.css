@@ -1,0 +1,14 @@
+#home {
+    color: blue;
+    text-align: center;
+    margin-top: 14%;
+}
+.header {
+    color: red;
+    text-align: center;
+}
+.footer {
+    color: green;
+    text-align: center;
+    margin-top: 17%;
+}
